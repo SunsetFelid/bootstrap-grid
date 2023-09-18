@@ -7,13 +7,25 @@
     text-align: right;
 }
 .my-nav{
-    background-color: rgb(145, 179, 215)
+    background-color: rgb(145, 179, 215);
+}
+#col{
+    background-color: rgb(145, 179, 215);
+}
+#col:hover{
+    background-color: rgb(84, 112, 142);
+}
+#col:active{
+    background-color: rgb(44, 104, 169);
 }
 #my-btn{
     background-color: rgb(183, 191, 101);
 }
 #my-btn:hover{
     background-color: rgb(157, 129, 29);
+}
+#my-btn:active{
+    background-color: rgb(157, 173, 36);
 }
 #content{
     background-color: rgb(201, 213, 250);

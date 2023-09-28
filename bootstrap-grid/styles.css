@@ -9,6 +9,10 @@
 .my-nav{
     background-color: rgb(145, 179, 215);
 }
+#profilepic{
+    width: 60px;
+    border: 6px solid rgb(157, 129, 29);
+}
 #col{
     background-color: rgb(145, 179, 215);
 }

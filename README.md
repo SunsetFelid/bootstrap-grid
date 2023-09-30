@@ -26,3 +26,6 @@ Worked on Figma wireframe for 30 minutes
 
 Worked on Figma wireframe for 90 minutes
 
+9/29/2023
+	5:30PM
+ Edited first draft to align with wireframe. Added reply button and text boxes.

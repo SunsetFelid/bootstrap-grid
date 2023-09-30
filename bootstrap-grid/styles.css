@@ -1,5 +1,6 @@
 .body{
-    background-color: rgba(11,52,96,1);
+    background-color: #1E1E1E;
+
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .source{
@@ -7,23 +8,31 @@
     text-align: right;
 }
 .my-nav{
-    background-color: rgb(145, 179, 215);
+    background-color: #C8AC4B;
 }
 #profilepic{
     width: 60px;
     border: 6px solid rgb(157, 129, 29);
 }
 #col{
-    background-color: rgb(145, 179, 215);
+    background-color:#404040;;
+    color: #ffffff;
 }
 #col:hover{
-    background-color: rgb(84, 112, 142);
+    background-color: #3b3b3b;
 }
 #col:active{
-    background-color: rgb(44, 104, 169);
+    background-color: rgb(51, 49, 41);
+}
+#reply{
+    background-color:#404040;
+    color:#ffffff;
+}
+#reply::placeholder{
+    color: #c1c1c1;
 }
 #my-btn{
-    background-color: rgb(183, 191, 101);
+    background-color: rgb(200, 184, 82);
 }
 #my-btn:hover{
     background-color: rgb(157, 129, 29);
@@ -32,5 +41,9 @@
     background-color: rgb(157, 173, 36);
 }
 #content{
-    background-color: rgb(201, 213, 250);
+    background-color: #726E69;
+    font-size: medium;
+}
+#my-accord{
+    background-color: #292826;
 }
